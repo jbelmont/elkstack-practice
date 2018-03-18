@@ -481,3 +481,5 @@ output {
 ```
 
 Here I spin up logstash with my configuration file: `sudo logstash -f /etc/logstash/conf.d/logstash.conf`
+
+I would highly suggest you check out [Frank Kanes Udemy Course on the Elastic Stack](https://www.udemy.com/elasticsearch-6-and-elastic-stack-in-depth-and-hands-on)
